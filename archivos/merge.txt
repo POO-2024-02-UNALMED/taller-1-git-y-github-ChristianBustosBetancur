@@ -1,6 +1,16 @@
+10.
+El hecho de haber creado una carpeta archivos localmente, ya me permite crear archivos directamente desde github 
+adentro de esta carpeta, por tanto no hay problemas al momento de haber creado merge.txt
+
+12.
 Christian Bustos Betancur
 20 años
+
 Espero aprender bastante, adquirir muchos conocimientos y más que eso, ganar mucha experiencia para poder desarrollar proyectos mas avanzados y mejores.
 
+14.
 Es importante tener cuidado a la hora de modificar un mismo archivo desde diferentes ubicaciones ya que puede suceder que los archivos no se encuentren sincronizados y a la hora de sincronizarlos
 podemos presentar problemas como el que se presentó anteriormente, que estaba sincronizado en github pero no se encontraba en mis archivos locales.
+
+
+
