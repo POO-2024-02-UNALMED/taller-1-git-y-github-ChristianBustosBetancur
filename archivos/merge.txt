@@ -1,3 +1,6 @@
 Christian Bustos Betancur
 20 años
 Espero aprender bastante, adquirir muchos conocimientos y más que eso, ganar mucha experiencia para poder desarrollar proyectos mas avanzados y mejores.
+
+Es importante tener cuidado a la hora de modificar un mismo archivo desde diferentes ubicaciones ya que puede suceder que los archivos no se encuentren sincronizados y a la hora de sincronizarlos
+podemos presentar problemas como el que se presentó anteriormente, que estaba sincronizado en github pero no se encontraba en mis archivos locales.
