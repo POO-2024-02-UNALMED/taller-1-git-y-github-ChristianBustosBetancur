@@ -1,0 +1,2 @@
+El hecho de haber creado una carpeta archivos localmente, ya me permite crear archivos directamente desde github 
+adentro de esta carpeta, por tanto no hay problemas al momento de haber creado merge.txt
