@@ -1,1 +1,1 @@
-no ocurrió ningun problema
+No se podía realizar un commit
